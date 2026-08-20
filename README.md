@@ -1,11 +1,11 @@
 # Indrive Clone — White-Label Ride-Hailing & Transportation Platform by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdrive.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/indrive-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/indrive-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/indrive-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/indrive-clone/#features)
 
-**MXDrive** is a production-ready, white-label Indrive clone: a complete ride-hailing platform with rider, driver, and admin apps — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Indrive clone: a complete ride-hailing platform with rider, driver, and admin apps — delivered with **100% source code ownership** in **6 working days**.
 
 > 🚖 **See it running before you talk to anyone.** Live rider app, driver app, dispatch console, and admin dashboard — demo credentials are printed on the [solution page](https://miracuves.com/indrive-clone#demo). No sales call required.
 
@@ -70,7 +70,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/indrive-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/indrive-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -79,10 +79,12 @@ Custom ride-hailing apps run $120k–$600k and 9–14 months. A proven white-lab
 ## 📚 Resources
 
 - 📖 [Indrive Clone — Full Solution Page](https://miracuves.com/indrive-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Ride-Hailing App Cost in 2026?](https://miracuves.com/indrive-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Indrive Clone Script in 2026](https://miracuves.com/indrive-clone/blog/) features, pricing & launch guide
-- 🧠 [Why Smart Bidding Beats Surge Pricing in Emerging Markets](https://miracuves.com/indrive-clone/blog/) lessons from InDrive & Bolt
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/indrive-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Ride-Hailing App Cost in 2026?](https://miracuves.com/indrive-clone#features) pricing breakdown & what's included
+- 📝 [Best Indrive Clone Script in 2026](https://miracuves.com/indrive-clone#features) features, pricing & launch guide
+- 🧠 [Why Smart Bidding Beats Surge Pricing in Emerging Markets](https://miracuves.com/indrive-clone#features) lessons from InDrive & Bolt
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/indrive-clone#faq) every claim we make, verified
+- 💻 [Indrive Clone — Technical Stack](https://miracuves.com/indrive-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Indrive Clone — How It Works / User Flow](https://miracuves.com/indrive-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -94,7 +96,7 @@ Custom ride-hailing apps run $120k–$600k and 9–14 months. A proven white-lab
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/indrive-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/indrive-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: indrive clone, indrive clone script, ride-hailing app development, taxi app, white label ride-hailing, driver dispatch, fare bidding, Flutter ride app, Laravel mobility platform*
 
@@ -105,9 +107,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Indrive Clone
-{MX_NAME}         MXDrive
+{MX_NAME}         MXDemo
 {CATEGORY}        Ride-Hailing & Transportation Platform
-{DEMO_WEB}        mxdrive.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $2,899
 {SLUG}            indrive-clone
 {SOLUTION_URL}    https://miracuves.com/indrive-clone/
